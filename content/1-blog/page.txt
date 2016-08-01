@@ -1,0 +1,8 @@
+---
+Title:Blog
+Template: blogpages
+Description: The Starting page.
+modified: 2015-12-28
+---
+
+This page is automatically generated.

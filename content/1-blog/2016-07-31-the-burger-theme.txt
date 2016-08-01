@@ -1,0 +1,43 @@
+---
+title: The Burger Theme
+published: 2016-07-31
+modified: 2016-07-31
+author: Norbert Simon
+language: en
+tag: Example
+description: The Idea Behind
+Sidebar: sidebar
+---
+
+This theme was created for personal needs. To increase the available templates for YELLOW, I packed a sample site into a zip. [--more--]  ♦→
+
+>>> Because I use this for my blog (s.a. "personal needs"), english and german is a little bit mixed up here in this sample. For testing this should not disburb.
+
+## More information  / How to
+
+>> see [About](about)
+
+## Good to know
+
+- You may or may not add a "Sidebar:" header note. Because preset in config.ini it will be used — if available.
+   - If there is no sidebar available, the template doubles the basic navigation. I did not fix that, because I had no idea, why. And it is simple to avoid it: add an empty sidebar.
+- I do not know, how example behaves in multi language area.
+- Theme setup is based on Yellow V 0.6.5
+
+> You can use this "as is". I can not guarantee that I can give support. Hints and error messages are welcome.
+
+
+## Additional
+
+[imgpop blog/2016/keyboard.jpg "A sample picture"] This template contains a additional plugin, that uses the same image for display in the text and to zoom in — CSS only. Therefore, the "burger.css" theme contains the required styles, plugin folder contains required plugin.
+
+Adding to your text is quite simple:
+
+~~~
+[imgpop imagepath "image-title"]
+~~~
+
+
+
+
+

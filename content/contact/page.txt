@@ -1,0 +1,7 @@
+---
+Title: Kontakt
+Template: contact
+Description: Kontakt-Seite
+ContactEmail: nosi@nosi.de
+---
+This page is automatically generated.
