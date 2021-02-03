@@ -1,5 +1,7 @@
 # yellow-burger-menue
 
+**Development discontinued.**
+
 A reduced responsive theme with burger menu only. 
 
 > if you want to use this theme on a existing Yellow installation, you should have backups of it!
